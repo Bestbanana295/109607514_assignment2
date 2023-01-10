@@ -3,7 +3,7 @@
 ## File Structure
 
 ```bash
-        DSA_TA_2/
+        DSA_Assignment_2/
         ├──bin/         # binary file which can execute
         │   
         ├──obj/         # object file which can be linked
@@ -12,7 +12,7 @@
         ├──src/         # C code
         │   
         │
-        ├──build.sh     # bash script
+        ├──inc          # header
         ├──Makefile     # make file
         └──README.md    # this file 
 ```
